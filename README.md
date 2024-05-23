@@ -1,2 +1,2 @@
 # laerning
-for testing of git hub and learning it
+for testing of git hub and learning it.
